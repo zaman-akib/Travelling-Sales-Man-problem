@@ -1,0 +1,5 @@
+att48 : 10628
+burma14 : 3323
+st70 : 675
+ulysses16 : 6859
+ulysses22 : 7013
